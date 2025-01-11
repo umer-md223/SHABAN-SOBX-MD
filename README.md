@@ -27,11 +27,10 @@
 <a          href="https://github.com/MRSHABAN40/SHABAN-SOBX-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
-         
-</p>
+ 
+![license](https://img.shields.io/github/license/MRSHABAN40/SHABAN-SOBX-MD?color=green&label=License&style=plastic)
 
 ### 𝗟𝗜𝗖𝗘𝗡𝗦𝗘: [Click here](https://github.com/MRSHABAN40/SHABAN-SOBX-MD/blob/main/LICENSE)
-
 -------------------------
 
 ***BOT FEATURES 💌***

@@ -35,9 +35,9 @@
 
 ***BOT FEATURES 💌***
 
-| Menu ⁠➜ | Bot | Group | Search | Download | Tools | Ai | Viewonce | Fun | Status Reply | Status Reacts | Convert | Autoreacts |
-| --------| --- | ----- | ------ | -------- | ----- | -- | ---- | --- | ----- | ----| --------| -----|
-| Work ➜ | ✅ | ✅ | ✅ | ✅ | ✅  | ✅ | ✅ |  ✅ | ✅ | ✅ | ✅ | ✅ |
+| Menu ⁠➜ | Bot | Group | Pair | Download | Tools | Ai | Viewonce | Fun | Status Reply | Status Reacts | Convert | Autoreacts |
+|--------|---|-----|------|--------|-----|--|----|---|-----|----|--------|-----|
+| Work ➜ | ✅ | ✅ | ✅ | ✅ | ✅  | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 
 ---------------------
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+𝗥𝗘𝗣𝗢)](https://git.io/typing-svg)

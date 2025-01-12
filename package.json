@@ -1,7 +1,7 @@
 {
   "name": "SHABAN-SOBX-MD",
-  "version": "3.0.0",
-  "description": "A WhatsApp Bot Created By MrShaban",
+  "version": "1.0.4",
+  "description": "THE BEST BOT IN THE UNIVERSE",
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name SHABAN-SOBX-MD",
@@ -12,7 +12,6 @@
     "@whiskeysockets/baileys": "6.6.0",
     "@adiwajshing/keyed-db": "^0.2.4",
     "@dark-yasiya/yt-dl.js": "1.0.5",
-    "@ffmpeg-installer/ffmpeg": "^1.1.0",
     "pino": "^7.0.5",
     "pm2": "^5.2.0",
     "util": "^0.12.4",
